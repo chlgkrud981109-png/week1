@@ -1,0 +1,6 @@
+# Log files
+firebase-debug.log
+
+# IDE/Editor specific
+.vscode/
+.idx/
